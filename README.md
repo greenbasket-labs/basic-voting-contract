@@ -1,11 +1,24 @@
-# basic-voting-contract
-A simple Solidity voting contract deployed and tested on a public testnet as a learning milestone.
+# Basic Voting Contract
+
+> Solidity learning milestone.
+
+A small voting contract built to practice Solidity fundamentals and public testnet deployment.
+
+## Status
+
+**Learning / foundational project — not a flagship portfolio project.**
+
+The repository demonstrates:
+
+- basic Solidity contract structure
+- voting logic
+- deployment through Remix
+- public testnet interaction
+
+It is intentionally small. For more substantial smart-contract research and security-oriented work, see the projects featured on the main **greenbasket-labs** profile.
+
 ## Deployment
 
-This contract was deployed and tested on a public testnet using Remix and MetaMask.
+Previously tested on Monad Testnet through Remix and MetaMask.
 
-- Network: Monad Testnet
-- Deployment method: Remix IDE (Injected Provider)
-- Contract: Voting.sol
-
-This deployment serves as a learning milestone and on-chain proof of execution.
+> This repository is educational and should not be treated as production-grade governance infrastructure.
